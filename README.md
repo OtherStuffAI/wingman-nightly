@@ -1,8 +1,8 @@
-# Wingman Nightly
+# Nostr Browser
 
-Daily Android preview of [Wingman Be Free](https://github.com/OtherStuffAI/wm-app),
+Native Nostr browser with local signing, WApps and Flight Deck,
 released at 22:00 Australia/Perth. Installs alongside stable WMAPP using
-`com.wingmanbefree.wingman_app.nightly` and the visible name **Wingman Nightly**.
+`com.wingmanbefree.wingman_app.nightly` and the visible name **Nostr Browser**.
 
 Each release includes the signed ARM64 APK, committed WMAPP and Flight Deck
 source archives and a build proof containing source commits, asset SHA-256 hashes,
